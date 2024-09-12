@@ -1,0 +1,6 @@
+train: /mnt/hard-disk/Projects/nayanajith/data/sentisight/training/images
+val: /mnt/hard-disk/Projects/nayanajith/data/sentisight/validation/images
+#test: /mnt/hard-disk/Projects/nayanajith/data/sentisight/testing/images
+
+nc: 6
+names: ['BuildUp Area', 'Building', 'Water', 'Vegetation', 'Forest', 'Road']

@@ -1,0 +1,6 @@
+train: /mnt/hard-disk/Projects/nayanajith/data/nasa/training/images
+val: /mnt/hard-disk/Projects/nayanajith/data/nasa/validation/images
+test: /mnt/hard-disk/Projects/nayanajith/data/nasa/testing/images
+
+nc: 5
+names: ['Land', 'Building', 'Vegetation', 'BuildUp Area', 'Water']

@@ -1,0 +1,14 @@
+train: /kaggle/input/flair-dataset-small/train/images
+val: /kaggle/input/flair-dataset-small/test/images
+#test: /mnt/hard-disk/Projects/nayanajith/data/nasa/testing/images
+
+nc: 7
+names: [
+  'forest area',
+  'shrublands',
+  'vegetation',
+  'built-up area',
+  'coastal area',
+  'water',
+  'other'
+]
