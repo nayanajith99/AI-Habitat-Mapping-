@@ -13,10 +13,19 @@ this project natively supports followinf datasets in YOLOv8 format
 you can find a working example of the work [here](https://huggingface.co/spaces/mohotta/HabitatMapping)
 
 you can run the pretained model with gradio app by cloning the hugging face repo and installing requirements using the requirements.txt file. 
+1. clone the project
+```
+git clone https://huggingface.co/spaces/mohotta/HabitatMapping
+```
+2. cd into the project
+```
+cd HabitatMapping
+```
+3. install requirements
 ```
 pip install -r requirements.txt
 ```
-& then
+4. run the app
 ```
 python app.py 
 ```
