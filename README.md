@@ -3,7 +3,7 @@ This Model is medium accuracy AI Model for habitat mapping
 
 ## supported datasets
 this project natively supports followinf datasets in YOLOv8 format
-1. [FLAIR Challenge](https://ignf.github.io/FLAIR/)
+1. [FLAIR Challenge](https://ignf.github.io/FLAIR/) | [original dataset in kaggle (unofficial)](https://www.kaggle.com/datasets/uom200399g/flair-dataset/) | [processed dataset](https://www.kaggle.com/datasets/uom200399g/flair-dataset/)
 
 ## file info
 * you can find all noebooks used in notebooks folder
