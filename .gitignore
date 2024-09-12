@@ -1,4 +1,3 @@
-
 data/
 datasets/
 conda-env/
@@ -7,7 +6,6 @@ trash/
 models/
 Submit/
 backend/
-*.ipynb
 *.pt
 *.jpg
 *.jpeg
