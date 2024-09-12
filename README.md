@@ -11,3 +11,5 @@ this project natively supports followinf datasets in YOLOv8 format
 * train.py - can be used to train a new model (literally train any YOLOv8 model with right config file)
 
 you can find a working example of the work [here](https://huggingface.co/spaces/mohotta/HabitatMapping)
+
+you can run the pretained model with gradio app by cloning the hugging face repo and installing requirements using the requirements.txt file. 
